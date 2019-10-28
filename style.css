@@ -1,0 +1,11 @@
+table{
+  width: 500px;
+  border-collapse: collapse;
+}
+th, tr {
+  border: 1px solid black;
+  padding: 3px;
+}
+.pas1 {
+  background-color: yellow;
+}
