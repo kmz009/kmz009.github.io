@@ -9,6 +9,3 @@ th, tr {
 .pas1 {
   background-color: yellow;
 }
-th:nth-child(5){
-  background-color: green;
-}
