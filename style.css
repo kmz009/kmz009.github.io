@@ -6,8 +6,15 @@ th, tr {
   border: 1px solid black;
   padding: 3px;
 }
-.pas11, .pas1 {
-  background-color: green;
+tr:nth-child(1){
+  background-color: grey;
 }
-.pas22 { 
-  background-color: red;}
+.win {
+  background-color: rgb(56, 250, 17);
+}
+.lost {
+  background-color: rgb(245, 69, 69);
+}
+.inPlay {
+  background-color: yellow;
+}
