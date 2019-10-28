@@ -1,5 +1,5 @@
 table{
-  width: 500px;
+  width: 700px;
   border-collapse: collapse;
 }
 th, tr {
@@ -8,4 +8,7 @@ th, tr {
 }
 .pas1 {
   background-color: yellow;
+}
+th:nth-child(5){
+  background-color: green;
 }
