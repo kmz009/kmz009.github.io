@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="77" group="РАЗВЛЕКАТЕЛЬНЫЕ", ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="16" group="ФЕДЕРАЛЬНЫЕ", ТНТ
+http://gorod.tv/s/live/19/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0 type="favorites" channelId="8" group="ФЕДЕРАЛЬНЫЕ", ТВ-3
+http://gorod.tv/s/live/15/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0 type="favorites" channelId="12" group="ФЕДЕРАЛЬНЫЕ", СТС
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:0 type="favorites" channelId="169" group="ФИЛЬМЫ", МУЖСКОЕ КИНО
+http://moscow-commpass.cdnvideo.ru:80/muzh_kino-mb/hls-00/mono.m3u8
+#EXTINF:0 type="favorites" channelId="198", Русский роман
+http://182.73.122.74:10005/bysid/415
+#EXTINF:0 type="favorites" channelId="1" shift="1", Первый канал RU
+http://ott-cdn.ucom.am/s14/index.m3u8
+#EXTINF:0 type="favorites" channelId="14" group="ДЕТСКИЕ", КАНАЛ 2x2
+http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8?version=2
+#EXTINF:0 type="favorites" channelId="554", Матч! Футбол 2 HD
+http://185.78.112.23/football2_hd/mono.m3u8
+#EXTINF:0 type="favorites" channelId="1511", Беларусь 5
+http://178.124.183.5/hls/JRKVSUPCP8/variant.m3u8?version=2
+#EXTINF:0 type="favorites" channelId="-1" group="Кинофильмы", Akudji TV
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+#EXTINF:0 type="favorites" channelId="-1", BT SPORTS ESPN
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/233
+#EXTINF:0 type="favorites" channelId="-1", BT SPORTS 1 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/225
+#EXTINF:0 type="favorites" channelId="-1", BT SPORTS 2 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/226
+#EXTINF:0 type="favorites" channelId="-1", BT SPORTS 3 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/232
+#EXTINF:0 type="favorites" channelId="977", SPORT 1 (IL)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/65927
+#EXTINF:0 type="favorites" channelId="-1", SPORT 2 (IL)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/65928
+#EXTINF:0 type="favorites" channelId="-1", SPORT 4 (IL)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/65926
+#EXTINF:0 type="favorites" channelId="-1", SPORT 5 GOLD (IL)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/65896
+#EXTINF:0 type="favorites" channelId="181", CINEMA (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67982
+#EXTINF:0 type="favorites" channelId="-1", INVESTIGATION DISC (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67981
+#EXTINF:0 type="favorites" channelId="-1", MATCH (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67973
+#EXTINF:0 type="favorites" channelId="-1", MATCH ARENA (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67958
+#EXTINF:0 type="favorites" channelId="-1", MATCH IGRA (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67947
+#EXTINF:0 type="favorites" channelId="344", ESPN 2 (BR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/72804
+#EXTINF:0 type="favorites" channelId="1932", A MEDIA HIT (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/75732
+#EXTINF:0 type="favorites" channelId="915", A MEDIA PREMIUM (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/75830
+#EXTINF:0 type="favorites" channelId="66", TV1000 (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/75827
+#EXTINF:0 type="favorites" channelId="214", TV1000 ACTION (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/75826
+#EXTINF:0 type="favorites" channelId="65", TV1000 Русскоекино (RU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/75825
+#EXTINF:0 type="favorites" channelId="-1", SPORTS MAX 1 (JAMAICA)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/82906
+#EXTINF:0 type="favorites" channelId="-1", SPORTS MAX 2 (JAMAICA)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/82905
+#EXTINF:0 type="favorites" channelId="-1", SPORTS MAX PLUS (JAMAICA)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/82903
+#EXTINF:0 type="favorites" channelId="-1", NBA HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83330
+#EXTINF:0 type="favorites" channelId="-1", NBA 1
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83331
+#EXTINF:0 type="favorites" channelId="-1", NBA 2
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83332
+#EXTINF:0 type="favorites" channelId="-1", NBA 3
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83333
+#EXTINF:0 type="favorites" channelId="-1", NBA 4
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83334
+#EXTINF:0 type="favorites" channelId="-1", NBA 5
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83335
+#EXTINF:0 type="favorites" channelId="-1", NBA 6
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83336
+#EXTINF:0 type="favorites" channelId="-1", NBA 7
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83337
+#EXTINF:0 type="favorites" channelId="-1", NBA 8
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83338
+#EXTINF:0 type="favorites" channelId="-1", NBA 9
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83339
+#EXTINF:0 type="favorites" channelId="-1", NBA 10
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83340
+#EXTINF:0 type="favorites" channelId="-1", NBA 11
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/83341
+#EXTINF:0 type="favorites" channelId="82", EUROSPORT 1 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/84092
+#EXTINF:0 type="favorites" channelId="83", EUROSPORT 2 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/84093
+#EXTINF:0 type="favorites" channelId="-1", *NBC SPORTS
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/170
+#EXTINF:0 type="favorites" channelId="-1", *SPORTSNET 360 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/147
+#EXTINF:0 type="favorites" channelId="-1", TENNIS HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/167
+#EXTINF:0 type="favorites" channelId="1591", BEIN SPORTS 1 (AU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/80782
+#EXTINF:0 type="favorites" channelId="1592", BEIN SPORTS 2 (AU)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/80781
+#EXTINF:0 type="favorites" channelId="-1", BEIN DEPORTES HD (ES)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/236
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 1 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4814
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 4 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4811
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 5 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4810
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 7 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4808
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 8 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4807
+#EXTINF:0 type="favorites" channelId="-1", BEIN SPORTS 11 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/74480
+#EXTINF:0 type="favorites" channelId="-1", SKY SPORTS ACTION
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/206
+#EXTINF:0 type="favorites" channelId="225", EURO SPORT 1 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/211
+#EXTINF:0 type="favorites" channelId="933", EURO SPORT 2 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/212
+#EXTINF:0 type="favorites" channelId="-1", SKY SPORTS ARENA
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/207
+#EXTINF:0 type="favorites" channelId="-1", SKY SPORTS PREMIER LEAGUE
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/208
+#EXTINF:0 type="favorites" channelId="3540", SKY SPORTS MIX
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/194
+#EXTINF:0 type="favorites" channelId="-1", EIR SPORTS 1 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/234
+#EXTINF:0 type="favorites" channelId="217", EURONEWS
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/67409
+#EXTINF:0 type="favorites" channelId="-1", HBO 1 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/26321
+#EXTINF:0 type="favorites" channelId="2409", HBO 2 HD
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/26322
+#EXTINF:0 type="favorites" channelId="-1", SKY DISCOVERY SCIENCE
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/1766
+#EXTINF:0 type="favorites" channelId="-1", SKY DISCOVERY SHED
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/1761
+#EXTINF:0 type="favorites" channelId="179", FOX SPORTS 2 HD (LATIN AMERICA) (ES)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/39680
+#EXTINF:0 type="favorites" channelId="-1", OTE SPORT 1 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4743
+#EXTINF:0 type="favorites" channelId="-1", OTE SPORT 2 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4742
+#EXTINF:0 type="favorites" channelId="-1", OTE SPORT 4 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4740
+#EXTINF:0 type="favorites" channelId="-1", OTE SPORT 5 (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4739
+#EXTINF:0 type="favorites" channelId="-1", OTE SPORTS HIGHLIGHTS (GR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/4117
+#EXTINF:0 type="favorites" channelId="-1", ARENA SPORTS 5 (HR)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/40957
+#EXTINF:0 type="favorites" channelId="66", TV1000 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6807
+#EXTINF:0 type="favorites" channelId="2938", MINIMAX (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10238
+#EXTINF:0 type="favorites" channelId="-1", PRO TV (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6677
+#EXTINF:0 type="favorites" channelId="-1", PRO 2 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10225
+#EXTINF:0 type="favorites" channelId="-1", PRO INT (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10227
+#EXTINF:0 type="favorites" channelId="-1", PRO CINEMA (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6674
+#EXTINF:0 type="favorites" channelId="-1", PRO GOLD (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6673
+#EXTINF:0 type="favorites" channelId="-1", PRIMA TV (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6662
+#EXTINF:0 type="favorites" channelId="3934", DIGI SPORT 1 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6771
+#EXTINF:0 type="favorites" channelId="3935", DIGI SPORT 2 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/6770
+#EXTINF:0 type="favorites" channelId="3936", DIGI SPORT 3 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77335
+#EXTINF:0 type="favorites" channelId="3937", DIGI SPORT 4 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77340
+#EXTINF:0 type="favorites" channelId="-1", TELEKOM SPORT 1 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77366
+#EXTINF:0 type="favorites" channelId="-1", TELEKOM SPORT 2 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77365
+#EXTINF:0 type="favorites" channelId="-1", TELEKOM SPORT 3 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77334
+#EXTINF:0 type="favorites" channelId="-1", TELEKOM SPORT 4 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/77333
+#EXTINF:0 type="favorites" channelId="-1", B1 TV (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10239
+#EXTINF:0 type="favorites" channelId="-1", ANTENA STARS (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10236
+#EXTINF:0 type="favorites" channelId="-1", ANTENA 1 (RO)
+http://ok2.se:8000/15c8F7UT3qR8yrpul/d7d6F9UlQIZ8YGpqW/10228
