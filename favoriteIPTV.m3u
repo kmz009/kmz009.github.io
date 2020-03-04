@@ -1,4653 +1,4653 @@
 ﻿#EXTM3U url-tvg="http://iptv-content.webhop.net/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://epg.it999.ru/edem.xml.gz"
 #EXTINF:0,Первый HD
-#EXTGRP:Общие
+
 http://fr01.spr24.net/128/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5005/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/351/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый HD (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/3185/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/356/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал (+6)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20751/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал (+8)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20771/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1 HD
-#EXTGRP:Общие
+
 http://fr01.spr24.net/129/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1
-#EXTGRP:Общие
+
 http://fr01.spr24.net/20002/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1 (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/352/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1 (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/355/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1 (+6)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20752/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия 1 (+8)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20772/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия-Культура
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5099/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РТР Планета
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5299/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ HD
-#EXTGRP:Общие
+
 http://fr01.spr24.net/253/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/223/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/358/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ (+6)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20754/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ (+8)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20774/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ Мир
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5633/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РЕН HD
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/200/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РЕН ТВ
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5106/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РЕН ТВ (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/226/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РЕН ТВ (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/357/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ HD
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/301/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5001/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/353/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20749/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ (+6)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/20769/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ4
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/364/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ International
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5296/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС HD
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/3187/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/292/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/224/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/354/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС International
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5297/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС Love
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5253/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Супер
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/6856/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пятый Канал
-#EXTGRP:Общие
+
 http://fr01.spr24.net/338/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пятый Канал (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/285/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Телеканал Звезда
-#EXTGRP:Общие
+
 http://fr01.spr24.net/337/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Телеканал Звезда (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/366/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Телеканал Звезда (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/360/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТВЦ
-#EXTGRP:Общие
+
 http://fr01.spr24.net/334/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Домашний
-#EXTGRP:Общие
+
 http://fr01.spr24.net/291/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Домашний (+2)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/225/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Домашний (+4)
-#EXTGRP:Плюсовые
+
 http://fr01.spr24.net/359/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пятница HD
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/213/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пятница
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5300/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Че
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/363/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Кухня ТВ
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТелеДом HD
-#EXTGRP:Общие
+
 http://fr01.spr24.net/361/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Кто есть кто
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/282/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТВ3
-#EXTGRP:Общие
+
 http://fr01.spr24.net/336/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мама
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/314/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/138/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир 24
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/5129/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Новый мир
-#EXTGRP:Общие
+
 http://fr01.spr24.net/6737/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,360°
-#EXTGRP:Общие
+
 http://fr01.spr24.net/6792/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,8 канал
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5288/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КВН ТВ
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5177/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наше ТВ
-#EXTGRP:Музыкальные
+Музыкальные
 http://fr01.spr24.net/5176/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ОТР
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5501/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Перец International
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/6711/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Продвижение
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6759/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ретро ТВ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/6722/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Сарафан
-#EXTGRP:Развлекательные
+Развлекательные
 http://fr01.spr24.net/5332/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Союз
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5047/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Спас Тв
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5133/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Твой дом
-#EXTGRP:Общие
+
 http://fr01.spr24.net/6810/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Телеканал Театр
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5116/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Телекафе
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5323/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Успех
-#EXTGRP:Общие
+
 http://fr01.spr24.net/6853/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ю ТВ
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5142/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КРИК-ТВ
-#EXTGRP:Общие
+
 http://fr01.spr24.net/309/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ностальгия
-#EXTGRP:Общие
+
 http://fr01.spr24.net/313/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ратник
-#EXTGRP:Общие
+
 http://fr01.spr24.net/23667/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Москва Доверие
-#EXTGRP:Общие
+
 http://fr01.spr24.net/20321/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый образовательный
-#EXTGRP:Общие
+
 http://fr01.spr24.net/20263/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Время
-#EXTGRP:Общие
+
 http://fr01.spr24.net/5628/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOME 4K
-#EXTGRP:Общие
+
 http://fr01.spr24.net/17445/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Астрахань 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6799/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,12 Канал (Омск)
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6680/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,БСТ HD
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6657/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Грозный
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/5691/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ДОН 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6760/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КРЫМ 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/5010/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Санкт-Петербург
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6665/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РГВК Дагестан
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6944/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНВ Планета
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/5500/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Югра
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/6708/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,26 регион HD
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/22951/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ЛенТВ24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20781/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Кубань 24 Орбита
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23980/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,АТВ Ставрополь
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20319/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Башкортостан ТВ HD
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23538/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Беларусь 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23540/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Белгород 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20341/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ВМЕСТЕ-РФ
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23555/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Время Н
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23426/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Вся Уфа
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/24000/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Горная страна
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23447/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Томское время
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23780/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Катунь 24
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23983/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Курай HD
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23923/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Курай TV
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23905/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Липецкое время
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20798/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матур ТВ
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23423/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Надымский вестник
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23776/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наша сибирь 4K
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23430/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НВК Саха HD
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23666/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый городской (Омск)
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/22813/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый городской НН
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/24004/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Тамыр
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНВ Татарстан
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20247/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Тномер
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20113/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Хузур
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20302/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Юрган
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/23462/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ямал-Регион
-#EXTGRP:Региональные
+Региональные
 http://fr01.spr24.net/20191/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Россия-24
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/302/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Euronews Россия
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/325/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дождь
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/266/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RT HD
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/105/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTД (Русская версия)
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/5016/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RT Doc HD (English version)
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/214/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Москва 24
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/295/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РБК-ТВ
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/316/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IZ.RU
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/6750/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTVi
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/5673/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый Метео
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/5017/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Настоящее время
-#EXTGRP:Информационные
+Информационные
 http://fr01.spr24.net/5674/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Авто 24
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/315/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Авто Плюс
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/279/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Драйв
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Большая Азия
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6452/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery HD Showcase
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/216/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/267/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Science HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/303/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Science
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6391/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Investigation Discovery
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5035/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ID Xtra HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/149/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DTX
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/210/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,National Geographic HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/203/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,National Geographic
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5493/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20162/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/124/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/254/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5322/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,В мире животных HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/219/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HD Life
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/202/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Моя Планета
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/168/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel+Adventure HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/208/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Приключения  HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/136/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/261/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Глазами Туриста HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/252/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Russian Travel Guide HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/125/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTG TV
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5233/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/259/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5032/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,H2
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/205/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Nature/History HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/263/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat History HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20491/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat History
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20078/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Nature HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/23963/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Nature
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20119/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Explore
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/321/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DocuBox HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/332/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Живая Природа
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/217/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Живая Планета
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/341/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Охотник и рыболов HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/144/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Охота и Рыбалка
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5257/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дикая охота HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/327/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дикая рыбалка HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/326/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Диалоги о рыбалке
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6751/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Outdoor Channel
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/212/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Тайны галактики HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/146/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Эврика HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/145/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ЕДА Премиум
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/137/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Еда
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20241/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Network
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5168/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TLC HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/260/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TLC
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5152/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HD Media
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/262/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наука 2.0
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/308/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,24 Техно
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6811/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,История
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/342/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мужской
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/344/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Оружие
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5811/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Сов. Секретно
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/296/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,365 дней ТВ
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/278/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Бобёр
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5391/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дикий
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6754/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Домашние Животные
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5452/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Зоопарк
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5270/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,OCEAN-TV
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5139/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Морской
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/329/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Galaxy TV
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6864/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBS Reality
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5102/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Вопросы и ответы
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20123/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Зоо ТВ
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20386/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир Вокруг HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/23740/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Нано ТВ HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/23769/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Открытый мир
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20346/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пес и ко
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/23683/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fine Living
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/201/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Загородная Жизнь
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/345/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Загородный int HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/23684/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ Стиль
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/349/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Усадьба ТВ
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6668/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Доктор
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/311/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый Вегетарианский
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6658/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Психология 21
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/5239/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир увлечений
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/17453/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,English Club TV
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/6725/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fashion TV 4K
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/17091/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fashion TV
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/211/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fashion One HD
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/20226/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Арсенал
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/222/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Поехали!
-#EXTGRP:Познавательные
+Познавательные
 http://fr01.spr24.net/246/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОПРЕМЬЕРА HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/209/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Кино UHD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/17372/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Сериал UHD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/17728/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОХИТ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/272/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОМИКС
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/273/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОСЕМЬЯ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/274/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОСЕРИЯ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/286/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОСВИДАНИЕ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/271/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОКОМЕДИЯ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/281/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНОУЖАС HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/22395/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Комедия
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5089/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,МУЖСКОЕ КИНО
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/287/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наше новое кино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/289/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РОДНОЕ КИНО
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/288/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ИНДИЙСКОЕ КИНО
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/331/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VIP Premiere
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/104/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VIP Megahit
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/103/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VIP Comedy
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/102/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VIP Serial
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/109/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV1000
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/320/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV1000 Action
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/319/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV1000 Русское кино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/318/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НСТ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/312/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Премиальное HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/121/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Остросюжетное HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/122/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Шокирующее
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/119/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Страшное HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/218/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КИНО ТВ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/147/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Комедийное
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/120/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наше Крутое HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/123/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наш Кинороман
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/107/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русский роман
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/142/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/108/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дом Кино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/333/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наше Любимое
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/139/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Любимое Кино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/335/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русский бестселлер
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/276/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русский Иллюзион
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/294/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Иллюзион +
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/293/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русский детектив
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/277/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Феникс Плюс Кино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/350/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Entertainment Television HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/140/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Turbo
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/227/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SONY Sci-Fi
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/228/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Amedia Hit
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/270/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Amedia Premium
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/258/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A1
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/268/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A2
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/269/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FOX HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/101/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fox Russia
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5266/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fox Life HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/207/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fox Life
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5668/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Paramount Comedy HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/220/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Paramount Channel HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/221/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Paramount channel
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5158/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bollywood HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/251/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hollywood HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/127/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hollywood
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5511/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV XXI
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/310/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Еврокино
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/275/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ-ХИТ
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/328/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ Право
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/348/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ Сериал
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/347/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир Сериала
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5264/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FilmBox
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/6888/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Arthouse
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/6887/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Spike Russia
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/6758/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZEE TV
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/5596/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дорама
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/6723/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Победа
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/3085/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FAN HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/23562/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ultra Cinema 4K
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/20799/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Сиеста HD
-#EXTGRP:Кино
+Кино
 http://fr01.spr24.net/247/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Boomerang
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/306/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мульт HD
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/141/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мультимузыка
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/340/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мульт
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5161/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Малыш
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/6752/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Рыжий
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/6867/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Детский
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5275/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Детский мир
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5276/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Карусель
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/339/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мультиландия
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/304/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tiji TV
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/299/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,В гостях у сказки
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/330/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТС Kids HD
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/362/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Gulli Girl
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/300/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoon Network
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/6859/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/307/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ani
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/343/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nickelodeon HD
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/135/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nickelodeon
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5341/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick Jr.
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5494/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Jim Jam
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5342/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,2x2
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5245/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,O!
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/5315/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Капитан Фантастика
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/148/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Da Vinci Kids
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/317/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Пингвин Лоло
-#EXTGRP:Детские
+Детские
 http://fr01.spr24.net/23971/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,1HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/256/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТНТ MUSIC
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/365/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Музыка первого
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5491/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Europa Plus TV
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/280/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BRIDGE TV Deluxe
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/297/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BRIDGE TV Русский Хит
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/298/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bridge TV
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bridge TV Classic
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/6861/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BRIDGE TV HITS
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5662/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RU.TV
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5664/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,iConcerts
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/126/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Mezzo Live HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/3126/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5490/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Dance
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5630/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Hits
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5162/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Rocks
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5631/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Live HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/134/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ля-минор
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/284/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,МУЗ
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/324/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,C Music TV
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/257/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Шансон ТВ
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5247/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MCM Top
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5268/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Жара HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/17734/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ЖАРА
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/5483/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Открытый HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/23928/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Music Box Russian
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/20230/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trace Urban HD
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/20960/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VH-1 Classic
-#EXTGRP:Музыка
+Музыка
 http://fr01.spr24.net/20051/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/130/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 1 HD.
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/6661/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 1
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5462/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/131/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 2 HD.
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/6662/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 2
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5463/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/132/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 3 HD.
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/6724/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Футбол 3
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5464/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Футбол
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5249/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Игра HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/255/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч ТВ
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5027/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,МАТЧ! Боец
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/230/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,МАТЧ ПРЕМЬЕР HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/133/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,МАТЧ ПРЕМЬЕР
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5261/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Арена HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/204/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Арена
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5252/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Страна
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/229/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Матч! Планета
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/6062/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,M-1 Global TV
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5829/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Sport HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5244/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Sport
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/106/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 4K
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/17090/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/264/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/265/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport Gold HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/23922/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/933/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/934/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Бокс ТВ
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/346/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КХЛ HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/206/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КХЛ
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5154/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Конный мир HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5689/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Конный Мир
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/150/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Extreme Sports
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/5242/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русский Экстрим
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/143/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Точка отрыва
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/6667/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Моторспорт ТВ HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/23919/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UFC
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/17111/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fast and Fun Box HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/240/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FightBox HD
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/241/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Старт
-#EXTGRP:Спорт
+Спорт
 http://fr01.spr24.net/248/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,WDR Aachen
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/843/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,WDR Koln
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19032/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Prosieben HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/808/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Prosieben Maxx HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/817/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Prosieben Fun HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/14158/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/802/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL  [DE]
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17801/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL 2 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/806/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL 2
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTLplus
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/870/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL Living HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/2360/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL 4K UHD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/14149/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ORF 1 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/845/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ORF 2 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/846/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ORF 3 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/879/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VOX HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/814/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Vox
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19021/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,One
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/828/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZEE One
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/869/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky 1 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/11162/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,N-TV HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/803/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,N-TV
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19009/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,N24 DOKU
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/886/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HR HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/848/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HR
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17838/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NDR HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/849/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NDR [DE]
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17839/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nitro HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19008/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nitro
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/837/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SIXX HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/811/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SIXX
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19016/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ARTE HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/813/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kabel Eins HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/809/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kabel Eins
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19006/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kabel Eins Doku
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/885/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kabel Eins Classics HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/14164/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kabel Eins Classics
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/884/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,3Sat
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/816/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,E! Entertainment HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/822/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Das Erste
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/815/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZDF
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/812/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZDF Info
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/825/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZDF Neo HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/887/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Muenchen TV HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/6054/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Welt HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/16931/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tagesschau24 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/1077/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TLC HD [DE]
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/18022/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele 5 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/18037/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele 5
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17315/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ewtn
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19005/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Phoenix HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/18020/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Phoenix
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/6076/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SAT.1 HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/807/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SAT.1
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19013/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SAT.1 Gold HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/872/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SAT.1 Gold
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/19028/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Euronews
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/15835/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bon Gusto HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/17987/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SonnenKlar TV HD
-#EXTGRP:DE Germany
+DE Germany
 http://fr01.spr24.net/18032/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet HD [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/2137/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild HD [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/821/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/6123/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geographic HD
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/6085/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DMAX HD
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/841/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/2090/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/10600/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Spiegel Geschichte HD
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/864/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Spiegel TV Wissen
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/15776/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel HD [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/859/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel [DE]
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/2140/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planet HD
-#EXTGRP:DE Educational
+DE Educational
 http://fr01.spr24.net/15774/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/834/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/2098/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema +1 HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/16081/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema+1
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19070/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema +24 HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/854/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema+24
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19071/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Family HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/858/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Family [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/6140/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Nostalgie
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/860/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Action HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1397/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Action [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/831/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Emotion
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19056/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Hits HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/836/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Comedy
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/832/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Emotion
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/833/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Select Super HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/888/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Hits [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/17849/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Atlantic HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/839/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Atlantic [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/17918/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Krimi
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/862/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Syfy HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19060/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Syfy
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/838/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,13Th Street HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/10326/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,13Th Street
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/840/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Serie HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/830/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Serie
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1381/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Comedy HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19062/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Comedy
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/873/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Film HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/829/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Film
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1836/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/850/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL Crime HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/14154/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL Crime
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/10097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTL Passion HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/5647/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kinowelt TV HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/18050/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kinowelt TV
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/861/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Romance TV
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/863/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Anixe Serie HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/823/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FOX HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/842/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FOX [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/6071/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Universal Channel HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/2100/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Universal Channel
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/19064/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Crime Investigation HD
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/16498/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Crime Investigation
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/20128/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATV [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/844/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Heimatkanal
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/865/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Movies Boss  1
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1001/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Movies Boss  2
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1002/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Movies Boss  3
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1003/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Movies Boss  4
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1004/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Sci-fi HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1005/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Religion HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1006/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Cinema Lacheln HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1007/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Comedy HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1008/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Cinema Horror HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1009/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Cinema Thriller HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1010/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Cinema Abenteuer HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1011/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Drama HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1012/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Cinema Aсtion HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1013/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eagle Premiere HD [DE]
-#EXTGRP:DE Movie
+DE Movie
 http://fr01.spr24.net/1014/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoon Network [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/876/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Boomerang [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/874/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Comedy Central HD
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/17423/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Comedy Central [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/851/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Channel HD [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/818/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Channel [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/19048/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Junior HD [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/866/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Junior
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/1548/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Junior [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/868/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Cinemagic HD
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/835/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney XD HD [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/14215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney XD [DE]
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/867/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Super RTL HD
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/804/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Super RTL
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/17803/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TOGGO PLUS
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/877/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,KIKA HD
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/820/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick HD
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/14219/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/1071/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viva Comedy Central
-#EXTGRP:DE Kids
+DE Kids
 http://fr01.spr24.net/819/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV HD [DE]
-#EXTGRP:DE Music
+DE Music
 http://fr01.spr24.net/1072/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Deluxe Music HD
-#EXTGRP:DE Music
+DE Music
 http://fr01.spr24.net/880/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Deluxe Music
-#EXTGRP:DE Music
+DE Music
 http://fr01.spr24.net/14029/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,JUKEBOX
-#EXTGRP:DE Music
+DE Music
 http://fr01.spr24.net/883/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Classica
-#EXTGRP:DE Music
+DE Music
 http://fr01.spr24.net/875/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/824/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/1378/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 HD [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/852/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10783/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 Xtra HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/968/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 Xtra
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14117/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 1 HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/800/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 1
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/2036/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 2 HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/801/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 2
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/1367/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 3 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/950/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 3 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/2445/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 4 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/951/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 4 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10013/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 5 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/952/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 5 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10014/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 6 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/953/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 6 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10015/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 7 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/954/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 7 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10016/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 8 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/955/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 8 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10055/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 9 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/956/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 9 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10049/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 10 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/957/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 10 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10057/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 11 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/958/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport 11 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10041/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 1 HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/827/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 1
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 2 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/959/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 2 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17243/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 3 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/960/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 3 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17242/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 4 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/961/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 4 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17241/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 5 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/962/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 5 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17240/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 6 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/963/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 6 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17239/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 7 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/964/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 7 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17238/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 8 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/965/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 8 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17237/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 9 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10054/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 9 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17236/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga 10 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10007/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Bundesliga10 (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17235/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport News HD [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/826/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Austria HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/17999/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport Austria
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/10043/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DAZN 1 Bar HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14267/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DAZN 1 Bar
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/966/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DAZN 2 Bar HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14268/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DAZN 2 Bar
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/967/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Motorvision TV
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/847/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 1 HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/15783/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport1
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/15751/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport1 + HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14250/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,eSports1 HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14248/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,eSports1
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14109/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ORF SPORT+ HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/805/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SportDigital HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/18001/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SportDigital
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14112/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sport News
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/19077/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Auto Motor Sport HD
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/16817/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Auto Motor Sport [DE]
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/15855/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fc Bayern TV
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/2114/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EuroSport360 1 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14255/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EuroSport360 2 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14256/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EuroSport360 3 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14257/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EuroSport360 4 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14258/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EuroSport360 5 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14259/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport360 6 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14260/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport360 7 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14261/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport360 8 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14262/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport360 9 HD (ONLY ON MATCHDAY)
-#EXTGRP:DE Sport
+DE Sport
 http://fr01.spr24.net/14263/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SRF Info [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14270/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SRF 1 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14271/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SRF 2 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14272/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,3 + [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14273/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,4 +  [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14274/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 + [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14275/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,6 + [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14276/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele Basel [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14277/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TeleBaern [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14278/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Teletop [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14279/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele1 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14280/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele M1 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14281/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV 25 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14282/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele Zuri [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal 9 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14284/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Swiss 1 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14285/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,S1 HD [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14286/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RSI LA 1 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14287/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RSI LA 2 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14288/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTS Deux [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14289/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTS Un [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14290/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Star TV [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14291/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV24 HD [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14292/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,QS24 [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14293/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tele Südostschweiz [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14294/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVO Ostschweizer Fernsehen [СH]
-#EXTGRP:CH Switzerland
+CH Switzerland
 http://fr01.spr24.net/14295/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/708/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP 1 HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/707/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP 1
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/6307/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP 2 HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/768/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP3
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/769/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/730/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat 2 HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/713/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Cafe HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/714/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Play HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/716/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Super Polsat HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/732/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV4 HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/718/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TTV
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/750/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/744/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN 24
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/747/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN 7
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/748/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP Rozrywka
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/770/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Atm Rozrywka TV
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/11061/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV Puls HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/10953/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV Republika
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/11086/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC First HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/724/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC Earth HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/725/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fokus Tv
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/19083/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CANAL+ 4K ULTRA HD
-#EXTGRP:PL Poland
+PL Poland
 http://fr01.spr24.net/22400/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat News
-#EXTGRP:PL News
+PL News
 http://fr01.spr24.net/731/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat News 2
-#EXTGRP:PL News
+PL News
 http://fr01.spr24.net/733/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP Info
-#EXTGRP:PL News
+PL News
 http://fr01.spr24.net/774/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/717/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/1931/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Historia
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/721/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,National Geographic [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/728/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planete+ HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/754/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP Historia
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/711/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Active Family
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/723/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Domo+ HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/738/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kuchnia+ HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/755/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Adventure
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/779/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Network HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/10973/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Network [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/761/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Doku HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/776/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/760/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN Style HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/745/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN Turbo HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/746/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP-Kultura
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/772/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/10969/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Life HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/11046/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Science HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/11035/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Viasat Explore HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/11026/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Viasat Nature HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19086/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Viasat History HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19099/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Dokument HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19089/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Crime + Investigation
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19090/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel HD [PL]
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19091/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HGTV HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19095/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ID HD
-#EXTGRP:PL Educational
+
 http://fr01.spr24.net/19097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ale Kino+ HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/756/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Film HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/751/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal + HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/741/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ 1 HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/736/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Family HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/752/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinemax HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/704/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinemax 2 HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/10997/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/771/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 2 HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/701/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 3 HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/702/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Film HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/715/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Comedy Central  HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/703/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Seriale HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/757/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Romans
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/775/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVN Fabula HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/749/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP Seriale
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/773/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/1765/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11126/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN Spin HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11120/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBS Reality [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11106/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Epic Drama HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11142/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FOX HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11107/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FOX [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/739/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Paramount Channel HD [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11119/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FilmBox Premium [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11131/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Action
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11130/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Family [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/11129/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Arthouse [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19118/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Extra
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19119/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,13 Ulica
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19108/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AMC [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19109/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fox Comedy HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19122/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kino Polska HD
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19123/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kino TV
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19124/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SciFi [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/19126/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Stopklatka TV [PL]
-#EXTGRP:PL Movie
+PL Movie
 http://fr01.spr24.net/4422/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MiniMini+ HD
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/729/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,JimJam
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/777/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Teletoon+ HD
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/753/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP ABC
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/712/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Boomerang HD [PL]
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/11089/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Channel HD [PL]
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/11097/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney XD [PL]
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/11090/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Junior  [PL]
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/19133/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Da Vinci Learning [PL]
-#EXTGRP:PL Kids
+PL Kids
 http://fr01.spr24.net/11038/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 1 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/706/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 1
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/6917/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 2 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/705/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 2
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/6918/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 3 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/758/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 3
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/6919/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eleven Sports 4 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/759/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Sport
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/5870/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Sport HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/742/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Sport 2 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/737/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Sport 3 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/1766/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Sport 4 HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/1767/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal+ Now HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/740/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fightklub HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/726/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD [PL]
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/23891/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 HD [PL]
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/743/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 [PL]
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/6249/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Motowizja HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/727/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nsport+ HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/709/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport Extra HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/735/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/734/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/6654/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport Klub HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/720/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVP Sport HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/710/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport Premium 1
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/762/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport Premium 2
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/763/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fightbox HD [PL]
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/19137/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Golf Channel
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/19139/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Sport News HD
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/19140/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Extreme Sports HD [PL]
-#EXTGRP:PL Sport
+PL Sport
 http://fr01.spr24.net/19142/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trace Urban
-#EXTGRP:PL Music
+PL Music
 http://fr01.spr24.net/16919/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disco Polo Music
-#EXTGRP:PL Music
+PL Music
 http://fr01.spr24.net/19125/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Polsat Music
-#EXTGRP:PL Music
+PL Music
 http://fr01.spr24.net/778/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kino Polska Muzyka
-#EXTGRP:PL Music
+PL Music
 http://fr01.spr24.net/719/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rai Gulp
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19143/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rai Scuola
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19144/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rai Sport
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19145/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rai Storia
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19146/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UniNettuno University TV
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19147/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canale Italia 83
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19148/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canale Italia 84
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/19149/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Super Tennis HD
-#EXTGRP:IT Italia
+IT Italia
 http://fr01.spr24.net/20941/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,1+1
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/151/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BOLT
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/195/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТБ
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/160/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Интер
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/153/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Україна
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/174/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,2+2
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/152/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТЕТ
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/164/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ICTV
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/159/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Новий канал
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/194/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мега
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/171/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,К1
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/158/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,К2
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/169/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТН
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/157/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НЛО TV
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/172/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Квартал ТВ
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/173/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Футбол 1
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/155/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Футбол 2
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/156/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Спорт 1
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/162/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,XSPORT
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/185/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Setanta Sports HD [UA]
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/17434/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Star Cinema HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/17437/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Star Family HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/17438/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Етно HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/17439/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Наш HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/17440/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый Автомобильный
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/184/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,M1
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/175/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,M2-Эстрада
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/176/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ПлюсПлюс
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/163/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NIKI Kids
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/193/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NIKI Junior
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/192/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EU Music
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/191/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,4ever music HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/22393/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Піксель
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/166/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LALE
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/189/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATR
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/187/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Індиго
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/177/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZOOM [UA]
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/170/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Винтаж
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/186/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Сонце
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/183/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Дача
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/188/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Enter-фільм
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/167/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Надежда
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/182/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,24 канал
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/179/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,34 канал (Днепропетровск)
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/178/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 канал ПЕРШИЙ.УКРАЇНСЬКИЙ. ІНФОРМАЦІЙНИЙ
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/165/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,English Club TV [UA]
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/190/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZIK
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/198/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NewsOne
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,News Network
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/181/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,112 Украина
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/161/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eспресо TV
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/154/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UA:Перший
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/196/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Громадське
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/197/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Прямий HD
-#EXTGRP:UA Украина
+UA Украина
 http://fr01.spr24.net/199/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV1 [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/785/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BTV HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19208/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BTV [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/788/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LRT Televizija HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19159/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LRT Televizija  [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/789/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LRT Plius HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/791/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LRT Plius [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19161/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LNK HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19190/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LNK [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/781/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LIUKS! [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/783/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Balticum Auksinis  [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/792/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Info TV [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/782/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/786/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/17865/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV6 HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/787/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV6 [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/17866/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV8 HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/784/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV8 [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/17872/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Siauliu TV [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/23711/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Lolo TV [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/23715/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Lietuvos ryto TV [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/780/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Balticum Platinum HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19172/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 Film [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19173/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 1 HD [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/794/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 1 [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19194/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 Sport [LT]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/793/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 Sport 2 [LT+LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/790/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LTV 1 [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/796/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LTV 7 [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/797/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LNT [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/798/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 HD [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19175/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV3 [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/17861/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV6 [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/17864/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanals 2 [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19176/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,3+ [LV]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/799/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Smartzone HD [EE]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19200/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kidzone+ HD [EE]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/795/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый Балтийский канал [RU]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19171/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,REN TV Baltic [RU]
-#EXTGRP:LV + LT
+LV + LT
 http://fr01.spr24.net/19212/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,24kz
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20465/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,31 канал
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20456/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 канал
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20460/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Асыл Арна
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20468/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Казахстан
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20447/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Казахстан Караганда
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20461/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,КТК
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20448/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Новое телевидение
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20455/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТК
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20457/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Первый канал Евразия
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20449/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Седьмой канал
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20450/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТВ [KZ]
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20458/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ТАН
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20459/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Хабар
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20462/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Astana TV
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20451/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kazakh TV
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20454/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,QazSport
-#EXTGRP:KZ Kazakhstan
+KZ Kazakhstan
 http://fr01.spr24.net/20463/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Action
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21544/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Bombay
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21560/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Bidur Israeli
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21553/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Drama
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21526/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Fun HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21525/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Zone HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21529/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Baby
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21542/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,KAN 11
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20473/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Reshet 12
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20470/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Keshet 13
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20471/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 9 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21547/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 9
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20472/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 20
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20478/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 98
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21541/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TeenNick [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20476/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Jr [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/20474/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ego Total
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21550/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Channel
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21551/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hot Cinema 3 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21545/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Good Life
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21524/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Health
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21552/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Home Plus
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21503/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,hop
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21502/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Малютка
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21538/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT3 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21537/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,I24 News
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21562/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Junior [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21536/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT Kidz
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21535/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Luli
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21534/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick Jr [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21501/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,One HD [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21506/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HOT HBO
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21523/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hidabrut
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21561/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ONE2 HD (Спортивный)
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21546/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 1 HD [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21522/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SPORT 2 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21521/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 3 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21565/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 4 HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21566/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 5 STARS
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21507/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 5
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21569/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sport 5 PLUS
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21531/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21530/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VIVA
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21563/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viva+
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21556/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hop Yaldut Israelit
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21559/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 25 Yam Tichoni
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21567/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,YES 1
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21518/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,YES 2
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21517/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,YES 3
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21516/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,YES 4
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21515/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,YES 5
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21514/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Yes COMEDY HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21512/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Yes DOCU HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21511/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Yes DRAMA HD
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21510/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Yes Israeli Cinema
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21509/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZOOM [IS]
-#EXTGRP:IS Israel
+IS Israel
 http://fr01.spr24.net/21528/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Беларусь 1
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6748/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Беларусь 2
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/5799/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Беларусь 3
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6746/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Беларусь 5
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6707/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,БелСат
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6860/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,НТВ-Беларусь
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6743/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Мир-Беларусь
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6744/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ОНТ
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6742/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,РТР-Беларусь
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6741/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,СТВ [BL]
-#EXTGRP:BL Belarus
+BL Belarus
 http://fr01.spr24.net/6740/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Jurnal TV Moldova HD
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17621/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RTR Moldova HD
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17622/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV8 Moldova HD
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17623/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Primul Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17624/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Prime Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17625/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal 2 Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17626/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Canal 3 Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17627/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Publika TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17628/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NTV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17629/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RenTV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17630/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Moldova 1
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17631/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Moldova 2
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17632/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Pro TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17633/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Domashnii Molodva
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17634/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Orhei TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17635/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,N4 Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17636/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVC 21 Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17637/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV Centrala Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17638/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,10TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17639/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CTC Dixi Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17640/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT Bravo Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17641/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RuTV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17642/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Noroc TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17643/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Busuioc TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17644/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ZonaM Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17645/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Gurinel TV Moldova
-#EXTGRP:MD Moldova
+MD Moldova
 http://fr01.spr24.net/17646/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Artn TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5696/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,H3TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5681/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kentron
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/6735/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ararat
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5857/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Amga TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5695/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Usarmenia HD
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5292/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tbn TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5291/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Song TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/6873/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Shant TV
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5222/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Luys
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5014/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Aabc
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5694/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,1TV Armenia
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5224/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,H1
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5293/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,H2 [AM]
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5223/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Armenian News
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5225/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATV [AM]
-#EXTGRP:AM Armenia
+AM Armenia
 http://fr01.spr24.net/5302/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Arb
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6036/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Arb 24
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6037/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Arb Gunesh
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6038/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATV [AZ]
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5504/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Az TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5366/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cbc Azerbaycan
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5429/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cbc Sport HD
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5364/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Dalga TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6812/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Dunya TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5362/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ictimai TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5357/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Idman
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5359/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Inter
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5358/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Lider TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5354/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Medeniyyet TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5352/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV [AZ]
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6840/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Muz TV Azerbaycan
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6684/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Real TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/6920/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Space TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5349/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Xezer TV
-#EXTGRP:AZ Azerbaijan
+AZ Azerbaijan
 http://fr01.spr24.net/5348/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AMC [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22312/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22370/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22349/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena 1 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22388/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena 1
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22315/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena 3 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22389/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena 3
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22314/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena Stars HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22390/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Antena Stars
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22311/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Auto Motor Sport [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22989/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22399/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22305/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN Black
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22317/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN SPIN
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22909/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,AXN White [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22313/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,B1
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22377/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC Earth
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/23070/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bollywood TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22992/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bucuresti TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22970/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoon Network [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22338/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cbs Reality [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22991/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinemax HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22366/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinemax
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22358/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinemax 2
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22359/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cinethronix
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/23071/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Comedy Central [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22935/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Credo TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22987/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Da Vinci Learning [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22360/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI 24 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22900/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI 24
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22919/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI ANIMAL WORLD HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22960/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI ANIMAL WORLD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22923/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI FILM HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22385/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI FILM
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22910/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Life HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22961/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Life
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22920/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 1 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22383/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 1
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22937/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 2 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22382/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 2
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22921/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 3 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22394/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 3
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22924/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 4 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22967/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI Sport 4
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22938/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI WORLD HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22962/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DIGI WORLD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22916/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22340/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery ID
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22326/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Science [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22325/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Showcase HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22964/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Jr [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22339/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Diva
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22917/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DocuBox
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22981/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nicktoons
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22303/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DTX [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22942/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ducktv
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22980/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,E! Entertainment HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22391/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,E! Entertainment [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22908/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Epic Drama
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/23069/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Etno
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22939/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22375/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22328/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22376/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22329/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Extreme Sport
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22336/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Favorit TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22354/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FightBox
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22982/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Film Box Extra HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22379/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Film Cafe
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22319/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Filmbox Family [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22975/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FilmBox Plus INT
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22976/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FilmBox Premium [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22974/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fine Living [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22946/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Network [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22977/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Happy Channel HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22952/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Happy Channel
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22309/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22367/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 2 HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22392/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 2
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22941/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 3 HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22368/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO 3
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22911/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HBO Romania
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22912/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22396/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22343/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HIT MUSIC
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22940/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Hora TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22934/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Inedit TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22904/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal D HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22365/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,KANAL D [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22932/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kiss TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22334/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Look Plus HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/23072/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Look Plus
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22374/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Look Sport
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22928/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Profit.ro
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/23073/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Megamax
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22327/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MEZZO
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22902/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Mooz Dance HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22995/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Dance [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22350/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Hits [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22353/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Rocks [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22351/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Music Channel
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22335/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nasul TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22905/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22922/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22901/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22929/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NATIONAL 24 Plus
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22308/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,National Geographic HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22373/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,National TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22361/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Neptun TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22906/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick Jr [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22973/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nickelodeon [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22346/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Paramount channel [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22345/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Prima TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22378/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Pro Cinema
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22316/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Pro TV HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22381/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PRO TV INTERNATIONAL
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22993/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Realitatea Plus
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22330/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Romania TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22331/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PRO X HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22371/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PRO X
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22342/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sundance TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22978/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Telekom Sport 1 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22985/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Telekom Sport 2 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22986/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Telekom Sport 3 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22998/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Telekom Sport 4 HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22999/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TLC [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22341/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TNT
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22947/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel HD [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22397/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22925/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Mix
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22323/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRINITAS TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22979/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV Paprika
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22324/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV1000 [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22304/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVR HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22384/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TVR3
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22302/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UTV HD
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22956/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UTV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22918/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VH1 [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22936/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VH1 Classic
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22352/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Explore [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22357/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat Nature [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22959/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Viasat History [RO]
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22356/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Zu TV
-#EXTGRP:RO Romania
+RO Romania
 http://fr01.spr24.net/22347/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Blaze [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24160/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Yesterday [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24161/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DMAX [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24162/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DMAX + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24163/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery History [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24164/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Turbo [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24165/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Turbo + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24166/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Shed [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24167/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Science [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24168/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24169/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Crime and Investigation [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24170/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24171/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Discovery + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24172/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24173/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,H2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24174/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24175/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Animal Planet + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24176/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24177/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nat Geo Wild [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24178/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Travel Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24179/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Universal TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Lifetime HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24181/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eden [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24182/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony BBC Earth HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24183/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PBS America [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24184/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24270/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24271/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,VH1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24272/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Music [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24273/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Music + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24274/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Base [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24275/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Club [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24276/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Classic [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24277/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV Hits [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24278/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV OMG [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24279/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MTV ROCK [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24280/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trace Vault [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24281/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,The Box [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24282/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Box Upfront [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Box Hits [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24284/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Starz TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24285/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NOW XMAS [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24286/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Now 80s [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15896/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NOW 90s [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24287/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Magic [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24288/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,KISS [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24289/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kerrang [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24290/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SpotLight [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24291/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,4Music [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24292/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Clubland TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24295/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Premiere HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24185/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Premiere [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24186/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Hits HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24187/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Hits [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24188/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Greats HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24189/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Greats [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24190/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Disney HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24191/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Disney [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24192/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Family HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24193/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Family [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24194/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Action HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24195/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Action [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24196/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Comedy HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24197/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Comedy [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24198/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Thriller HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24199/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Thriller [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24200/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Drama HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24201/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Drama [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24202/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Sci-fi and Horror HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24203/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Sci-fi and Horror [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24204/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Select HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24205/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Cinema Select [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24206/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Film 4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24207/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Film 4 + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24208/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies Action [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24209/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies Action +1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24210/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies Christmas [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24211/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies Christmas +1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24212/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24213/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24214/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Talking Pictures TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TCM HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24216/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Horror Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24217/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Horror Channel + 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24218/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Pre Order 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24219/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Store 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24220/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Store 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24221/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky News [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24315/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky News HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24316/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15785/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15845/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC 1 London [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16620/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC 2 Eng [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16617/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBEEBIES [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16679/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC News HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24317/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC News [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16618/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BBC Parliament [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24318/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Euro News [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24319/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CNN HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24321/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT WORLD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24323/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports News HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24222/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports News [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24223/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Main Event HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24224/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Main Event [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24225/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Premiere League HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24226/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Premiere League [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24227/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Football HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24228/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Football [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24229/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Arena [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24230/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Action HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24231/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Cricket [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24233/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Golf [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24235/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports F1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24236/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports F1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24237/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Action [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24238/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Mix HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24240/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Mix [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24241/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sky Sports Races [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24242/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24243/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24244/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24245/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24246/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 3 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24248/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport 3 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24249/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BT Sport ESPN HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24251/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24252/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24253/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Box Nation [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24254/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Racing TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24255/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MUTV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24256/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Entertainment Television HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24257/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Entertainment Television [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15513/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,LFC TV HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24258/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Premier Sports 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24259/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Premier Sports 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24260/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Freesports HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24261/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eir Sports 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24262/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eir Sports 2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24263/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Box Nation HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24264/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,WWE Channel HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24266/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Horse And Country [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24268/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RedBull TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24269/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cbeebies HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24296/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBBC HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24297/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBBC [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16972/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CITV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24298/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,POP [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24299/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,POP Max [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24300/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tiny Pop [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24301/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Boomerang [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24303/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nicktoons [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24304/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nickelodeon [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24305/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick Jr [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24306/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick Jr PAW Patrol [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24307/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoon Network HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24309/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoon Network [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24302/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cartoonito [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24308/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nick HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24310/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Baby TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24311/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney XD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24312/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24313/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Junior [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24314/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  RTE 1 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24703/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  RTE 2 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24704/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  Virgin Media One [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24705/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  Virgin Media Two [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24706/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  Virgin Media Three [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24707/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  Virgin Media Sport [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24708/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  TG4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24709/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  RTE Jr [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24710/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  RTE News [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24711/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,IRE  S4C [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24712/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 1 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24421/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24422/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 3 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24423/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24424/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 5 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24425/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 6 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24426/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 7 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24427/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 8 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24428/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 9 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24429/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 10 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24430/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 11 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24431/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperSport 12 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24432/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rush Sport [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24433/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rush Sport 2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24434/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rush Sport 3 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/24435/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ITV HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16626/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ITV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16608/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ITV 2 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15787/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ITV 3 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15811/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ITV 4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15812/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 4 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16492/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16681/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 5 HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16987/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,E4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16986/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5STAR [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17004/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Dave [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16994/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Pick [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16997/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Challenge [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16999/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Home [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17000/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,More4 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16985/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Really [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17001/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,STV HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17002/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Crime Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15820/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBS Justice [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15798/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Cbs Reality [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15818/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movie [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15804/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Food Network [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17010/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Front Runner [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16575/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,GEO TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15897/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BEN [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/15905/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UTV HD  [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17700/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,UTV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16600/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,STV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16602/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CBS Drama [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16612/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 usa [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16616/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,4seven [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16621/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Channel 5 [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16627/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 Spike [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16628/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trace Latina [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16629/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trace Urban [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16630/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Channel [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16640/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Together TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16660/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,S4C [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/16687/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Arirang TV HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17704/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,RT HD [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17707/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,5 Select [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17715/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sony Movies Christmas
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17722/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Showcase [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17724/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CNBC [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17730/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Drama [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17731/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Forces TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/17748/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MotorVision TV [UK]
-#EXTGRP:UK Britain
+UK Britain
 http://fr01.spr24.net/18054/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A 2
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2347/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A Haber [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2342/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A HABER HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17562/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BEYAZ TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2349/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CNN TURK [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2340/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,DREAM TURK
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2299/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,KANAL D [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2353/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SHOW TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2351/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,STAR TV HD [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2354/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt 1
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2356/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Muzik
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2304/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV 4 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2309/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV 8 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2350/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATV HD [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2355/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,24 TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5412/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,38 Kent TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6819/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A spor
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5856/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bloomberg HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5421/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bursa Spor TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5015/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Deha
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6820/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Er TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5343/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Euro D
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5215/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Haberturk HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5427/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,History HD [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5411/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal D HD [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6728/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kral TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5057/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Minika Cocuk
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6822/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Minikago
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5425/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nostalji Turk 1 Tr HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5804/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NTV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6787/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NTV Spor HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5353/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planeta_Muftak
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5718/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planeta_Turk
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5719/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Rumeli TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6821/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Semerkand
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5721/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SHOW HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5430/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SHOW TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5220/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Movie Smart Action
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5807/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SMART SPOR 1
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6836/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sports TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5413/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,STAR TV HD [TR].
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5179/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TEVE 2 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5720/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tivibu Sport 1 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6726/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Tivibu Sport 2 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/6727/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Avaz HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5212/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Cocuk HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5213/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt HABER
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5345/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Muzik HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5214/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Okul
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5419/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt Turk Europa
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5418/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt World HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5219/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT Spor [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5417/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sinema Aksiyon
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5810/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV 41
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5477/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV 60
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5478/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV79
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5476/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV8 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5488/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A2 [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5424/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,ATV [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5423/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CNN TURK [TR].
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5409/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Trt BELGESEL [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5420/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Disney Channel [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5806/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Eurosport 1 HD [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5805/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,beIN SPORTS HABER HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2283/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,beIN SPORTS HABER
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18363/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bein Sports 1 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5824/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bein Sports 2 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5823/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bein Sports 3 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5822/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal Avrupa
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17500/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal 7 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17502/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,24 TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17503/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,BRT2 KKTC
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17507/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FLASH TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17512/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,GENC TURKU TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17513/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planeta_COCUK
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17517/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Planeta_PEMBE
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17519/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Power (TV) Turk HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5480/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Powerturk TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17522/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,POWER TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/5475/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Power TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17521/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,STAR TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17526/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT AVAZ
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17527/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT BELGESEL
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17528/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT COCUK
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17529/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT DIYANET
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17530/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT WORLD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17535/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MIXBOX SINEMA 2
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17547/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MIXBOX SINEMA 3
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17548/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MIXBOX SINEMA 4
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17549/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MIXBOX SINEMA 7
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17552/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NTV SPOR
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17555/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,MIXBOX SINEMA 1
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17557/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT 1 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17560/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,A SPOR HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17563/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NTV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17573/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CNN Turk HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17579/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Fox Turkiye HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17585/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beyaz TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17589/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Ulke TV HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17595/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Kanal S
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/17598/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT Arap?a
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18321/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT Spor
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18322/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT Kurd?
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18323/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Mega Muzik
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18340/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Nr1 Turk TV
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/2300/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Bloomberg HT
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18355/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TV8 5 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18356/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,360 HD
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18359/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TLC [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18367/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,CARTOON NETWORK [TR]
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18372/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,TRT 4K
-#EXTGRP:TR Turkey
+TR Turkey
 http://fr01.spr24.net/18380/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 1 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6447/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 2 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6451/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 3 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6446/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 4 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/5872/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 5 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6652/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 6 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6651/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 7 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6653/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 8 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/5871/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 9 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6448/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 10 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/6449/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 11 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/21111/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 12 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/21112/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beinsports 13 HD
-#EXTGRP:AR BeIN Sports
+AR BeIN Sports
 http://fr01.spr24.net/21113/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,HUSTLER HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/902/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,REDLIGHT HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/904/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PENTHOUS GOLD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/909/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PENTHOUS QUICKIES
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/903/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,PENTHOUS BLACK
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/906/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Pink O TV
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5880/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Dorcel
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5881/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,FRENCHLOVER
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5757/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Private TV
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5758/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Babes
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/17976/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Русская ночь
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5238/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Playboy TV
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/5235/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,O-la-la
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/907/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,NuArt
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/910/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Sexto Sento
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/901/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Beate Uhse Tv HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/19178/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Шалун HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/22401/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,EroXXX
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/22402/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Reality Kings
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/22403/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Barely legal
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/22404/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,Vivid RED HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/19180/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:0,SuperONE HD
-#EXTGRP:XXX Adult
+XXX Adult
 http://fr01.spr24.net/22387/index.m3u8?token=BQF9PmuRpcxUqR
 #EXTINF:-1 group-title="ТЕСТ",Киноужас
 http://server05.selo.su/tk987645378888203/70001/index.m3u8
@@ -4981,7 +4981,7 @@ http://217.25.216.4:8085/udp/238.2.17.131:1234
 https://rt-cache1.peers.tv/streaming/ntv_hit/16/variable.m3u8
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум
 https://rt-cache1.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал
+#EXTINF:-1 group-title="",Пятый канал
 https://rt-cache1.peers.tv/streaming/5kanal/16/variable.m3u8
 #EXTINF:-1 group-title="Кино",KINO 24
 https://rt-cache1.peers.tv/streaming/kino24/126/copy/playlist.m3u8
@@ -5313,7 +5313,7 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Детский Мир
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_DETMIR.m3u8
-#EXTINF:-1 group-title="Общие",Домашний
+#EXTINF:-1 group-title="",Домашний
 https://live-hls-tvplusonline.cdnvideo.ru/dom/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Думская TV HD
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
@@ -5331,7 +5331,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Жара
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_JARA.m3u8
-#EXTINF:-1 group-title="Общие",Звезда
+#EXTINF:-1 group-title="",Звезда
 https://live-hls-tvplusonline.cdnvideo.ru/zvezda/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
@@ -5355,11 +5355,11 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 https://live-hls-tvplusonline.cdnvideo.ru/karusel/playlist.m3u8
 #EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
 http://dmitry-tv.ru/his/itv_zabava/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="Плюсовые",Карусель +2
+#EXTINF:-1 group-title="",Карусель +2
 https://live-hls-tvplusonline.cdnvideo.ru/karuselp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Карусель +4
+#EXTINF:-1 group-title="",Карусель +4
 https://live-hls-tvplusonline.cdnvideo.ru/karuselp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Карусель +6
+#EXTINF:-1 group-title="",Карусель +6
 https://live-hls-tvplusonline.cdnvideo.ru/karuselp6/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",КВН ТВ
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_KVN.m3u8
@@ -5453,19 +5453,19 @@ https://live-hls-tvplusonline.cdnvideo.ru/matchfootball3/playlist.m3u8
 https://live-hls-tvplusonline.cdnvideo.ru/matchfootball3hd/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Мир
+#EXTINF:-1 group-title="",Мир
 https://live-hls-tvplusonline.cdnvideo.ru/mir/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Мир
+#EXTINF:-1 group-title="",Мир
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_MIR.m3u8
 #EXTINF:-1 group-title="Информационные",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Мир HD
+#EXTINF:-1 group-title="",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Мир HD
+#EXTINF:-1 group-title="",Мир HD
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="Общие",Мир Premium HD
+#EXTINF:-1 group-title="",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Мир Premium HD
+#EXTINF:-1 group-title="",Мир Premium HD
 https://live-hls-tvplusonline.cdnvideo.ru/mirhd/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Мир сериала
 http://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
@@ -5507,15 +5507,15 @@ http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Ностальгия
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_NOSTALGIYA.m3u8
-#EXTINF:-1 group-title="Общие",НТВ
+#EXTINF:-1 group-title="",НТВ
 https://live-hls-tvplusonline.cdnvideo.ru/ntv/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",НТВ +2
+#EXTINF:-1 group-title="",НТВ +2
 https://live-hls-tvplusonline.cdnvideo.ru/ntvp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",НТВ +4
+#EXTINF:-1 group-title="",НТВ +4
 https://live-hls-tvplusonline.cdnvideo.ru/ntvp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",НТВ +6
+#EXTINF:-1 group-title="",НТВ +6
 https://live-hls-tvplusonline.cdnvideo.ru/ntvp6/playlist.m3u8
-#EXTINF:-1 group-title="Общие",НТВ HD
+#EXTINF:-1 group-title="",НТВ HD
 https://live-hls-tvplusonline.cdnvideo.ru/ntvhd/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь",НТВ HD Беларусь
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_NTVHD_BLRUS.m3u8
@@ -5537,7 +5537,7 @@ http://dmitry-tv.my1.ru/his/itv_blrus/CH_ONTHD_BLRUS.m3u8
 http://stream.ont.by:1935/ont/live576p/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",ОТВ 24
 https://live-hls-tvplusonline.cdnvideo.ru/otv24/playlist.m3u8
-#EXTINF:-1 group-title="Общие",ОТР
+#EXTINF:-1 group-title="",ОТР
 https://live-hls-tvplusonline.cdnvideo.ru/otr/playlist.m3u8
 #EXTINF:-1 group-title="Мужское",Охотник и Рыболов
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVSD.m3u8
@@ -5549,13 +5549,13 @@ https://live-hls-tvplusonline.cdnvideo.ru/patriot/playlist.m3u8
 http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Первый Деловой
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Общие",Первый канал
+#EXTINF:-1 group-title="",Первый канал
 https://live-hls-tvplusonline.cdnvideo.ru/perviy/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Первый канал +2
+#EXTINF:-1 group-title="",Первый канал +2
 https://live-hls-tvplusonline.cdnvideo.ru/perviyp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Первый канал +4
+#EXTINF:-1 group-title="",Первый канал +4
 https://live-hls-tvplusonline.cdnvideo.ru/perviyp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Первый канал +6
+#EXTINF:-1 group-title="",Первый канал +6
 https://live-hls-tvplusonline.cdnvideo.ru/perviyp6/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Победа
 https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
@@ -5571,13 +5571,13 @@ https://live-hls-tvplusonline.cdnvideo.ru/probusiness/playlist.m3u8
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 https://live-hls-tvplusonline.cdnvideo.ru/friday/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Пятница +2
+#EXTINF:-1 group-title="",Пятница +2
 https://live-hls-tvplusonline.cdnvideo.ru/fridayp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Пятница +4
+#EXTINF:-1 group-title="",Пятница +4
 https://live-hls-tvplusonline.cdnvideo.ru/fridayp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Пятница +6
+#EXTINF:-1 group-title="",Пятница +6
 https://live-hls-tvplusonline.cdnvideo.ru/fridayp6/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Пятый канал
+#EXTINF:-1 group-title="",Пятый канал
 https://live-hls-tvplusonline.cdnvideo.ru/kanal5/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Радио Шансон ТВ HD
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
@@ -5587,11 +5587,11 @@ https://live-hls-tvplusonline.cdnvideo.ru/radost/playlist.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
 #EXTINF:-1 group-title="Развлекательные",РЕН ТВ
 https://live-hls-tvplusonline.cdnvideo.ru/ren/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",РЕН ТВ +2
+#EXTINF:-1 group-title="",РЕН ТВ +2
 https://live-hls-tvplusonline.cdnvideo.ru/renp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",РЕН ТВ +4
+#EXTINF:-1 group-title="",РЕН ТВ +4
 https://live-hls-tvplusonline.cdnvideo.ru/renp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",РЕН ТВ +6
+#EXTINF:-1 group-title="",РЕН ТВ +6
 https://live-hls-tvplusonline.cdnvideo.ru/renp6/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
@@ -5599,23 +5599,23 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Кино",Родное кино
 https://live-hls-tvplusonline.cdnvideo.ru/rodnoekino/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1
+#EXTINF:-1 group-title="",Россия 1
 https://live-hls-tvplusonline.cdnvideo.ru/russia/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Россия 1 +2
+#EXTINF:-1 group-title="",Россия 1 +2
 https://live-hls-tvplusonline.cdnvideo.ru/russiap2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Россия 1 +4
+#EXTINF:-1 group-title="",Россия 1 +4
 https://live-hls-tvplusonline.cdnvideo.ru/russiap4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",Россия 1 +6
+#EXTINF:-1 group-title="",Россия 1 +6
 https://live-hls-tvplusonline.cdnvideo.ru/russiap6/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Россия 1 HD
+#EXTINF:-1 group-title="",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Информационные",Россия 24
 https://live-hls-tvplusonline.cdnvideo.ru/russia24/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Россия HD
+#EXTINF:-1 group-title="",Россия HD
 https://live-hls-tvplusonline.cdnvideo.ru/russiahd/playlist.m3u8
-#EXTINF:-1 group-title="Общие",Россия Культура
+#EXTINF:-1 group-title="",Россия Культура
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="Общие",Россия Культура
+#EXTINF:-1 group-title="",Россия Культура
 https://live-hls-tvplusonline.cdnvideo.ru/kultura/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь",Россия РТР HD Беларусь
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_RUSSIARTRHD_BLRUS.m3u8
@@ -5647,11 +5647,11 @@ http://dmitry-tv.my1.ru/his/itv_blrus/CH_STV_BLRUS.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС
 https://live-hls-tvplusonline.cdnvideo.ru/sts/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",СТС +2
+#EXTINF:-1 group-title="",СТС +2
 https://live-hls-tvplusonline.cdnvideo.ru/stsp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",СТС +4
+#EXTINF:-1 group-title="",СТС +4
 https://live-hls-tvplusonline.cdnvideo.ru/stsp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",СТС +6
+#EXTINF:-1 group-title="",СТС +6
 http://176.114.16.54:80/sts/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС International
 http://sc.id-tv.kz/STS_36_37.m3u8
@@ -5665,31 +5665,31 @@ http://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
 http://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
 #EXTINF:-1 group-title="Спорт",СИЛА FHD
 http://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:-1 group-title="Общие",ТВ3
+#EXTINF:-1 group-title="",ТВ3
 https://live-hls-tvplusonline.cdnvideo.ru/tv3/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТВ3 +2
+#EXTINF:-1 group-title="",ТВ3 +2
 https://live-hls-tvplusonline.cdnvideo.ru/tv3p2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТВ3 +4
+#EXTINF:-1 group-title="",ТВ3 +4
 https://live-hls-tvplusonline.cdnvideo.ru/tv3p4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТВ3 +6
+#EXTINF:-1 group-title="",ТВ3 +6
 https://live-hls-tvplusonline.cdnvideo.ru/tv3p6/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь",ТВ3 Беларусь
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ
+#EXTINF:-1 group-title="",ТВЦ
 https://live-hls-tvplusonline.cdnvideo.ru/tvc/playlist.m3u8
-#EXTINF:-1 group-title="Общие",ТВЦ HD
+#EXTINF:-1 group-title="",ТВЦ HD
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
 #EXTINF:-1 group-title="Другое",Телемагазин
 http://dmitry-tv.my1.ru/his/itv_blrus/CH_TELEMAGAZIN.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ
 https://live-hls-tvplusonline.cdnvideo.ru/tnt/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТНТ +2
+#EXTINF:-1 group-title="",ТНТ +2
 https://live-hls-tvplusonline.cdnvideo.ru/tntp2/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТНТ +4
+#EXTINF:-1 group-title="",ТНТ +4
 https://live-hls-tvplusonline.cdnvideo.ru/tntp4/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТНТ +6
+#EXTINF:-1 group-title="",ТНТ +6
 https://live-hls-tvplusonline.cdnvideo.ru/tntp6/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые",ТНТ +7
+#EXTINF:-1 group-title="",ТНТ +7
 http://176.114.16.54:80/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
 https://live-hls-tvplusonline.cdnvideo.ru/tnthd/playlist.m3u8
